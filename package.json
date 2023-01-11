@@ -39,7 +39,7 @@
     "gatsby-tinacms-remark": "^0.7.14-alpha.2",
     "gatsby-tinacms-teams": "^0.1.4",
     "gatsby-transformer-json": "^2.2.2",
-    "gatsby-transformer-remark": "^2.6.9",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.2.4",
     "lodash.get": "^4.4.2",
     "prismjs": "^1.16.0",
